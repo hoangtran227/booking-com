@@ -19,7 +19,7 @@ public class ChallengeStepDefinitions {
     AssuredActions assuredActions;
 
     @Given("I am on the Booking home page")
-    public void i_am_on_the_GoalSetter_home_page() {
+    public void i_am_on_the_booking_com_home_page() {
         navigateTo.bookingHomePage();
     }
 
